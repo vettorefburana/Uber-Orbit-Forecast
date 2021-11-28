@@ -10,7 +10,7 @@ Objectives:
 Models: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 * Arima
-* Orbit DLT, LGT and ETS
+* Orbit Local Global Trend (LGT), Damped Local Trend (DLT) and Exponential Smoothing (ETS)
 * Facebook Prophet
 
 Results: 
