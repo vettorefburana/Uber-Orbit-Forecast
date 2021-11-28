@@ -1,5 +1,5 @@
 # Uber-Orbit-Forecast
-Time series forecasts using Uber's Orbit and Facebook's Prophet
+Time series forecasting using Uber's Orbit and Facebook's Prophet
 
 Objectives: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
