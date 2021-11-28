@@ -23,7 +23,7 @@ References:
 * https://towardsdatascience.com/time-series-modeling-with-orbit-a38e03a2a4ea
 * https://arxiv.org/pdf/2004.08492.pdf
 
-Data soruces: 
+Data sources: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 * Waze mileage data: https://github.com/ActiveConclusion/COVID19_mobility
 * Temperature data: https://github.com/GoogleCloudPlatform/covid-19-open-data
