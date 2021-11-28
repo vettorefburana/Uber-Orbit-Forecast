@@ -16,7 +16,8 @@ Models:
 Results: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 * Prophet yields a smaller prediction error than other forecasting models
-* Prediction error increases if temperature is used as a regressor for predicting mileage
+* For Orbit models, prediction error increases if temperature is used as a regressor for predicting mileage
+* For Prophet, including temperature as a regressor yields a smaller prediction error
 
 References:
 ----------------------------------------------------------------------------------------------------------------------------------------------------
