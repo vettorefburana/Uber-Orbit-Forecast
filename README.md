@@ -15,7 +15,7 @@ Models:
 
 Results: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-* Facebook prophet yields a smaller prediction error than other forecasting models
+* Prophet yields a smaller prediction error than other forecasting models
 * Prediction error increases if temperature is used as a regressor for predicting mileage
 
 References:
